@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Vi gifter oss!
 tagline: Den 21:a maj 2022
 toc: true
 toc_label: " "
@@ -11,7 +12,6 @@ header:
     - label: OSA här!
       url: mailto:brollop@kardell.cc?Subject=OSA
 ---
-# Vi gifter oss️
 
 Äntligen är det dags! Vi hoppas verkligen att ni har möjlighet att komma och dela dagen med oss
 
@@ -31,6 +31,9 @@ Vigseln kommer att äga rum i Överenhörna kyrka kl 15:00 den 21:a maj 2022. Ef
   >
   </iframe>
 </div>
+
+- Vigsel: Överenhörna kyrka, Ekensberg 6, 150 23 Enhörna
+- Fest: Överenhörna bygdegård, Ekensberg 5, 150 23 Enhörna
 
 # OSA
 
