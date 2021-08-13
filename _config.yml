@@ -7,3 +7,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+atom_feed:
+  hide: true
