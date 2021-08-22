@@ -1,5 +1,4 @@
 title: Jacob + Kristina = ❤️
-remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -9,3 +8,6 @@ exclude:
   - vendor
 atom_feed:
   hide: true
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
