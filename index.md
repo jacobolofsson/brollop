@@ -51,7 +51,7 @@ Vill ni inte åka direkt hem efter festen rekommenderar vi [Quality Park Hotell 
 
 Vi kommer att arrangera transport till vigseln ifrån Södertälje centrum (mer info kommer).
 
-Efter festen kommer vi även att arrangera transporter tillbaka in till Södertälje efter festen.
+Efter festen kommer vi även att arrangera transporter tillbaka in till Södertälje.
 
 Om man vill ta egen bil så kommer det att finnas gott om parkeringsplatser vid kyrkan och/eller festlokalen.
 
