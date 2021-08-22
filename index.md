@@ -7,15 +7,14 @@ toc_label: " "
 toc_icon: ellipsis-h
 toc_sticky: true
 header:
-  overlay_image: https://wallpaperaccess.com/full/4620521.jpg
+  overlay_image: assets/images/collage.png
+  overlay_filter: linear-gradient(to left top, rgba(255,0,0,0.2), rgba(0,146,202,0.5))
   actions:
     - label: OSA här!
       url: mailto:brollop@kardell.cc?Subject=OSA
 ---
 
-Äntligen är det dags! Vi hoppas verkligen att ni har möjlighet att komma och dela dagen med oss
-
-Mer detaljerad information kommer löpande publiceras här
+Äntligen är det dags! Vi hoppas verkligen att ni har möjlighet att komma och dela dagen med oss!
 
 # Tid & Plats
 
@@ -37,4 +36,43 @@ Vigseln kommer att äga rum i Överenhörna kyrka kl 15:00 den 21:a maj 2022. Ef
 
 # OSA
 
-Meddela hurvida ni kommer eller inte senast den 31:a mars till brollop@kardell.cc, samt eventuella allergier eller mat/dryckespreferenser.
+OSA sker **senast den 31:a mars** till brollop@kardell.cc.
+Vi behöver även följande information:
+- Eventuella allergier eller andra mat/dryckespreferenser
+- Om ni vill ha transport från Södertälje till vigseln eller ej
+- Vart ni övernattar (så vi kan planera transporter)
+
+{% include figure image_path="/assets/images/majmiddag_2015.jpeg" %}
+
+# Boende & Transport
+
+Det finns tyvärr ingen möjlighet till boende i direkt anslutning till festlokalen.
+Vill ni inte åka direkt hem efter festen rekommenderar vi [Quality Park Hotell Södertälje](https://goo.gl/maps/opNgTjJorktxMZHx5), precis intil pendeltågsstationen.
+
+Vi kommer att arrangera transport till vigseln ifrån Södertälje centrum (mer info kommer).
+
+Efter festen kommer vi även att arrangera transporter tillbaka in till Södertälje efter festen.
+
+Om man vill ta egen bil så kommer det att finnas gott om parkeringsplatser vid kyrkan och/eller festlokalen.
+
+# Klädkod
+
+Det viktigaste är att du känner dig fin.
+
+En tumregel är kostym i valfri färg/material eller knälång klänning.
+Men det går minst lika bra med byxdress, kjol med en finare topp, kavaj med chinos etc.
+
+Kom som ditt finaste du!
+
+{% include figure image_path="/assets/images/vårbal_2015_crop.jpg" %}
+
+# Toastmasters & Tal
+
+Mer info kommer
+
+# Gåvor
+
+Mer info kommer
+
+{% include figure image_path="/assets/images/solna_2021_crop.jpeg" %}
+
