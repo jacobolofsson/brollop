@@ -64,7 +64,7 @@ Men det går minst lika bra med byxdress, kjol med en finare topp, kavaj med chi
 
 Kom som ditt finaste du!
 
-{% include figure image_path="/assets/images/vårbal_2015_crop.jpg" %}
+{% include figure image_path="/assets/images/varbal_2015_crop.jpg" %}
 
 # Toastmasters & Tal
 
