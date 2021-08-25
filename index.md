@@ -42,7 +42,7 @@ Vi behöver även följande information:
 - Om ni vill ha transport från Södertälje till vigseln eller ej
 - Vart ni övernattar (så vi kan planera transporter)
 
-{% include figure image_path="/assets/images/majmiddag_2015.jpeg" %}
+{% include figure image_path="/assets/images/majmiddag_2015.jpg" %}
 
 # Boende & Transport
 
@@ -74,5 +74,5 @@ Mer info kommer
 
 Mer info kommer
 
-{% include figure image_path="/assets/images/solna_2021_crop.jpeg" %}
+{% include figure image_path="/assets/images/solna_2021_crop.jpg" %}
 
