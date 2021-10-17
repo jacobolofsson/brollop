@@ -66,6 +66,8 @@ Kom som ditt finaste du!
 
 {% include figure image_path="/assets/images/varbal_2015_crop.jpg" %}
 
+![image-right](/assets/images/toastmasters_cropped.jpg){: .align-right}
+
 # Toastmasters & Tal
 
 Vill man hålla ett litet tal, framföra en dans eller hitta på något annat under
