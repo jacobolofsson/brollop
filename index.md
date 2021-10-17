@@ -68,7 +68,9 @@ Kom som ditt finaste du!
 
 # Toastmasters & Tal
 
-Mer info kommer
+Vill man hålla ett litet tal, framföra en dans eller hitta på något annat under
+middagen vill vi att man anmäler det i förhand till våra toastmasters,
+Linnea Alm och Josef Thoresen på [alm_linnea@hotmail.com](mailto:alm_linnea@hotmail.com).
 
 # Gåvor
 
