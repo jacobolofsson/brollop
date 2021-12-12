@@ -76,7 +76,8 @@ Linnea Alm och Josef Thoresen på [alm_linnea@hotmail.com](mailto:alm_linnea@hot
 
 # Gåvor
 
-Mer info kommer
+Om ni vill ge en gåva, men inte är helt säkra på vad, kan ni kontakt Joakim Kardell
+för tips och inspiration på [joakim.kardell@ptm.se](mailto:joakim.kardell@ptm.se).
 
 {% include figure image_path="/assets/images/solna_2021_crop.jpg" %}
 
