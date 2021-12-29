@@ -41,8 +41,15 @@ Vi behöver även följande information:
 - Eventuella allergier eller andra mat/dryckespreferenser
 - Om ni vill ha transport från Södertälje till vigseln eller ej
 - Vart ni övernattar (så vi kan planera transporter)
+- Ifall era barn följer med
 
 {% include figure image_path="/assets/images/majmiddag_2015.jpg" %}
+
+# Barn
+
+Barn i alla åldrar är välkomna till både vigsel och fest.
+Det kommer finnas mikrovågsugn att värma mat, välling etc i.
+Till lite äldre barn kan vi ordna alternativ till vuxenmaten ifall det inte faller i smaken.
 
 # Boende & Transport
 
@@ -76,7 +83,7 @@ Linnea Alm och Josef Thoresen på [alm_linnea@hotmail.com](mailto:alm_linnea@hot
 
 # Gåvor
 
-Om ni vill ge en gåva, men inte är helt säkra på vad, kan ni kontakt Joakim & Anneli Kardell
+Om ni vill ge en gåva, men inte är helt säkra på vad, kan ni kontakta Joakim & Anneli Kardell
 för tips och inspiration på [joakim.kardell@ptm.se](mailto:joakim.kardell@ptm.se).
 
 {% include figure image_path="/assets/images/solna_2021_crop.jpg" %}
