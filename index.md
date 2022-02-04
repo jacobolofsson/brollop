@@ -55,8 +55,10 @@ Till lite äldre barn kan vi ordna alternativ till vuxenmaten ifall det inte fal
 
 Det finns tyvärr ingen möjlighet till boende i direkt anslutning till festlokalen.
 Vill ni inte åka direkt hem efter festen rekommenderar vi [Quality Park Hotell Södertälje](https://goo.gl/maps/opNgTjJorktxMZHx5), precis intil pendeltågsstationen.
+**Kom ihåg att begära tidig incheck!**
+Det kostar 100kr/timme (incheck kl 13 kostar 200kr extra).
 
-Vi kommer att arrangera transport till vigseln ifrån Södertälje centrum (mer info kommer).
+Vi kommer att arrangera en buss till vigseln ifrån hotellet kl 14:00.
 
 Efter festen kommer vi även att arrangera transporter tillbaka in till Södertälje.
 
