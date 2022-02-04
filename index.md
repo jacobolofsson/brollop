@@ -58,7 +58,7 @@ Vill ni inte åka direkt hem efter festen rekommenderar vi [Quality Park Hotell 
 **Kom ihåg att begära tidig incheck!**
 Det kostar 100kr/timme (incheck kl 13 kostar 200kr extra).
 
-Vi kommer att arrangera en buss till vigseln ifrån hotellet kl 14:00.
+Vi kommer att arrangera en buss till vigseln ifrån hotellet kl 14:00 (man får gärna åka med även om man inte bor på hotellet).
 
 Efter festen kommer vi även att arrangera transporter tillbaka in till Södertälje.
 
