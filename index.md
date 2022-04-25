@@ -87,6 +87,7 @@ Linnea Alm och Josef Thoresen på [alm_linnea@hotmail.com](mailto:alm_linnea@hot
 
 Om ni vill ge en gåva, men inte är helt säkra på vad, kan ni kontakta Joakim & Anneli Kardell
 för tips och inspiration på [joakim.kardell@ptm.se](mailto:joakim.kardell@ptm.se).
+Det finns ingen exakt önskelista, men de har koll på brudparets smak samt vad de har och inte har!
 
 {% include figure image_path="/assets/images/solna_2021_crop.jpg" %}
 
