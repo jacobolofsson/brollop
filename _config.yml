@@ -2,6 +2,8 @@ title: Jacob + Kristina = ❤️
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+include:
+  - _pages
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -10,4 +12,4 @@ atom_feed:
   hide: true
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"

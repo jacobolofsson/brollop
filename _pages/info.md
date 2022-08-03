@@ -1,4 +1,5 @@
 ---
+permalink: /info
 layout: single
 title: Vi gifter oss!
 tagline: Den 21:a maj 2022
@@ -7,7 +8,7 @@ toc_label: " "
 toc_icon: ellipsis-h
 toc_sticky: true
 header:
-  overlay_image: assets/images/collage.png
+  overlay_image: assets/images/info/collage.png
   overlay_filter: linear-gradient(to left top, rgba(255,0,0,0.2), rgba(0,146,202,0.5))
   actions:
     - label: OSA här!
@@ -38,12 +39,13 @@ Vigseln kommer att äga rum i Överenhörna kyrka kl 15:00 den 21:a maj 2022. Ef
 
 OSA sker **senast den 31:a mars** till brollop@kardell.cc.
 Vi behöver även följande information:
+
 - Eventuella allergier eller andra mat/dryckespreferenser
 - Om ni vill ha transport från Södertälje till vigseln eller ej
 - Vart ni övernattar (så vi kan planera transporter)
 - Ifall era barn följer med
 
-{% include figure image_path="/assets/images/majmiddag_2015.jpg" %}
+{% include figure image_path="/assets/images/info/majmiddag_2015.jpg" %}
 
 # Barn
 
@@ -73,11 +75,11 @@ Men det går minst lika bra med byxdress, kjol med en finare topp, kavaj med chi
 
 Kom som ditt finaste du!
 
-{% include figure image_path="/assets/images/varbal_2015_crop.jpg" %}
+{% include figure image_path="/assets/images/info/varbal_2015_crop.jpg" %}
 
 # Toastmasters & Tal
 
-![image-right](/assets/images/toastmasters_cropped.jpg){: .align-right}
+![image-right](/assets/images/info/toastmasters_cropped.jpg){: .align-right}
 
 Vill man hålla ett litet tal, framföra en dans eller hitta på något annat under
 middagen vill vi att man anmäler det i förhand till våra toastmasters,
@@ -89,5 +91,4 @@ Om ni vill ge en gåva, men inte är helt säkra på vad, kan ni kontakta Joakim
 för tips och inspiration på [joakim.kardell@ptm.se](mailto:joakim.kardell@ptm.se).
 Det finns ingen exakt önskelista, men de har koll på brudparets smak samt vad de har och inte har!
 
-{% include figure image_path="/assets/images/solna_2021_crop.jpg" %}
-
+{% include figure image_path="/assets/images/info/solna_2021_crop.jpg" %}
