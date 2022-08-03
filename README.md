@@ -16,3 +16,10 @@ Serve page locally
 ```bash
 bundle exec jekyll serve [--livereload]
 ```
+
+## Update thumbnails
+
+```bash
+pip install pyyaml
+./update_gallery.py
+```
